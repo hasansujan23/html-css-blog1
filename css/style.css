@@ -3,8 +3,41 @@
 
 .templete{width: 960px;margin: 0 auto;}
 .clear{overflow: hidden;}
-.heder-section{height: 85px;background: #B7801C;}
-.heder-section h1{color: #fff;text-align:center;padding:25px;}
+.heder-section{background: #B7801C;}
+.logo{
+width:430px;float:left;
+}
+.logo img{
+width:120px;
+float:left;
+margin-right:15px;
+padding-left:20px;
+padding-top:10px;
+padding-bottom:10px;
+}
+.logo h2{
+color:#FFF;
+font-size:33px;
+margin-top:24px;
+margin-bottom:11px;
+text-shadow:2px 2px 0px #666;
+}
+.logo p{
+color:aliceblue;
+font-size:20px;
+margin-bottom:10px;
+}
+.social{
+width:250px;
+float:right;
+padding:15px;
+}
+.social img{
+width:50px;
+float:right;
+margin-left:10px;
+}
+
 .menubar-section{background: #E6AF4B;}
 .menubar-section ul{margin: 0;padding: 0;list-style: none;}
 .menubar-section ul li{
